@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include "crossword.h" // Include the crossword generation functions
+#include <string.h>
 
 int main() {
     int numWords, numRows, numCols;
